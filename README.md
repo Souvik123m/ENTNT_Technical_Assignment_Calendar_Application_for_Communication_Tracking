@@ -12,7 +12,7 @@
 
 How to run the code ?
 
-First go to the app.js and run the code
+First go to the App.js and run the code
 Second go to the terminal and write the commands npm install then npm start
 
 Objective
