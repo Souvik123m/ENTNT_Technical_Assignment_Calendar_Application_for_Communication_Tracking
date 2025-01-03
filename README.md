@@ -1,7 +1,14 @@
 # ENTNT_Technical_Assignment_Calendar_Application_for_Communication_Tracking
 
 # UI DESIGN
-
+![1](https://github.com/user-attachments/assets/f4c3104d-901b-4873-95cf-e3a2093d9804)
+![2](https://github.com/user-attachments/assets/074718dc-9052-4508-9530-c1114c898bf2)
+![3](https://github.com/user-attachments/assets/4167afb6-ce7c-44c5-a118-109fa37ca3ab)
+![4](https://github.com/user-attachments/assets/d0d30c21-ff77-471b-a792-66ab69d8eb23)
+![5](https://github.com/user-attachments/assets/e065e640-88cf-4d0d-9739-2f95af3f9c8a)
+![6](https://github.com/user-attachments/assets/302b0c26-a388-4575-9b39-68e1446fb8e1)
+![7](https://github.com/user-attachments/assets/e0782bda-c042-4ff4-aa04-706b4eafe47b)
+![8](https://github.com/user-attachments/assets/86a9ef13-facd-4909-8f35-11a36cf056d1)
 
 
 
