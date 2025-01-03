@@ -10,7 +10,9 @@
 ![7](https://github.com/user-attachments/assets/e0782bda-c042-4ff4-aa04-706b4eafe47b)
 ![8](https://github.com/user-attachments/assets/86a9ef13-facd-4909-8f35-11a36cf056d1)
 
-
+How to run the code ?
+First go to the app.js and run the code
+Second go to the terminal and write the commands npm install then npm start
 
 Objective
 
